@@ -1,1 +1,2 @@
 # Group-Collaboration-using-Power-BI
+This project involved the collaboration of myslef and 5 others to find a dataset with the potential for valvuable insights. We then cleaned the data using tools in Power BI. After deciding on sections of Products, Customers, Shipping, Returns we created unique and interactive visualisations. We then had a general KPI breakdown. The other group members were Jeff Bowers, Daniel Heather, Cian Murray-Doyle, Dami Darimola, and Emma Flynn.
